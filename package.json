@@ -1,0 +1,22 @@
+{
+  "name": "iste",
+  "version": "1.0.0",
+  "description": "智能化源项估计程序开发",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiben-jy/Intelligent-source-term-estimation.git"
+  },
+  "author": "齐奔",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiben-jy/Intelligent-source-term-estimation/issues"
+  },
+  "homepage": "https://github.com/qiben-jy/Intelligent-source-term-estimation#readme",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
